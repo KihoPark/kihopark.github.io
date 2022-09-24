@@ -7,14 +7,14 @@ redirect_from:
   - /resume
 ---
 
-## Education
+## **Education**
 * **University of Chicago, 2021 - present**
   * Ph.D. in Statistics
 * **Seoul National University, 2015 - 2021**
   * B.S. in Statistics and Mathematical Science
 * **Seoul Science High School, 2015**
 
-## Teaching
+## **Teaching**
 * Teaching Assistant at the University of Chicago
   * Multivariate Statistical Analysis: Applications and Techniques (STAT 32950-24620), Spring 2022.
   * Statistical The ory and Methods IIa (STAT 24510 30040), Winter 2022.
