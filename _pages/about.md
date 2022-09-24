@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! My name is Kiho Park (also known as Anthony). I am a second-year Ph.D. student in [Statistics](https://stat.uchicago.edu) at the University of Chicago. I graduated from [Seoul National University](https://stat.snu.ac.kr/en/), majoring in Statistics and Mathematics. Fourtunately, I worked with Prof. [Sungkyu Jung](http://jung.snu.ac.kr) at SNU.
+I am a second-year Ph.D. student in [Statistics](https://stat.uchicago.edu) at the University of Chicago.
+
+I graduated from [Seoul National University](https://stat.snu.ac.kr/en/), majoring in Statistics and Mathematics. Fourtunately, I worked with Prof. [Sungkyu Jung](http://jung.snu.ac.kr) at SNU.
 
 Research interests
 ======
