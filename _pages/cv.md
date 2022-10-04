@@ -15,7 +15,7 @@ redirect_from:
 * **Seoul Science High School, 2015**
 
 ## **Awards & Scholarships**
-* Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics, October 2022.
+* [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/), October 2022.
 * Dean's List, Fall 2018 - Spring 2020.
 * National Scholarship for Science and Engineering, 2015 - 2020.
 * Gold Award, Hanwha Science Challenge, September 2013.
