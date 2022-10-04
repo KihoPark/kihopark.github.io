@@ -23,5 +23,8 @@ redirect_from:
   * Mathematical Statistics I (326.311), Spring 2021, (Best tutor awards).
   * Mathematical Statistics II (326.312), Autumn 2020.
 
-## **Awards**
+## **Awards & Scholarships**
 * Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics, October 2022.
+* Dean's List, Fall 2018 - Spring 2020.
+* National Scholarship for Science and Engineering, 2015 - 2020.
+* Gold Award, Hanwha Science Challenge, September 2013.
