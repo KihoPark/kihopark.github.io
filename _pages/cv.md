@@ -15,6 +15,7 @@ redirect_from:
 * **Seoul Science High School, 2015**
 
 ## **Awards & Scholarships**
+* [Seoul National University Alumni Association (SNUAA) Chicago Scholarship](http://www.alumni-world.com/snuaachicago/public/scholarship.htm), November 2022.
 * [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/), October 2022.
 * Dean's List, Fall 2018 - Spring 2020.
 * National Scholarship for Science and Engineering, 2015 - 2020.
