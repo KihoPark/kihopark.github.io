@@ -20,6 +20,7 @@ Research interests
 
 News
 =====
+* **October 2022**: Awarded [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/).
 * **September 2021**: Started PhD at UChicago!
 * **March 2021**: Paper on clustering the dihedral angles on the torus accepted at *Annals of Applied Statistics*.
 * **June 2019**: Started internship in [Statistical Learning Theory Lab](https://statlet.github.io).
