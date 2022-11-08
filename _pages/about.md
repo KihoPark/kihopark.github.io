@@ -16,7 +16,7 @@ Research interests
 ======
 * Distribution-free Inference
 * Causal Inference
-* Reinforcement Learning Theory
+* Representation Learning
 
 News
 =====
