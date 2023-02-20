@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student in [Statistics](https://stat.uchicago.edu) at the University of Chicago.
+I am a second-year Ph.D. student in [Statistics](https://stat.uchicago.edu) at the University of Chicago. I am very fortunate to be advised by Prof. [Victor Veitch](http://victorveitch.com/).
 
-I graduated from [Seoul National University](https://stat.snu.ac.kr/en/), majoring in Statistics and Mathematics. Fourtunately, I worked with Prof. [Sungkyu Jung](http://jung.snu.ac.kr) at SNU.
+I graduated from [Seoul National University](https://stat.snu.ac.kr/en/), majoring in Statistics and Mathematics. At SNU, I worked with Prof. [Sungkyu Jung](http://jung.snu.ac.kr).
 
 Research interests
 ======
-* Distribution-free Inference
 * Causal Inference
 * Representation Learning
+* Large Language Model
 
 News
 =====
