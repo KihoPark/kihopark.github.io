@@ -16,8 +16,8 @@ redirect_from:
 
 ## **Awards & Scholarships**
 * The Winter 2023 Consulting Cup Team Award, March 2023.
-* [Seoul National University Alumni Association (SNUAA) Chicago Scholarship](http://www.alumni-world.com/snuaachicago/public/scholarship.htm)){:target="_blank"}, November 2022.
-* [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/)){:target="_blank"}, October 2022.
+* [Seoul National University Alumni Association (SNUAA) Chicago Scholarship](http://www.alumni-world.com/snuaachicago/public/scholarship.htm){:target="_blank"}, November 2022.
+* [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/){:target="_blank"}, October 2022.
 * Dean's List, Fall 2018 - Spring 2020.
 * National Scholarship for Science and Engineering, 2015 - 2020.
 * Gold Award, Hanwha Science Challenge, September 2013.
