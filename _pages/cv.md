@@ -24,7 +24,7 @@ redirect_from:
 
 ## **Teaching**
 * Teaching Assistant at the University of Chicago
-  * Mathematical Statistics-2 (STAT 30200), Spring 2023.
+  * Mathematical Statistics 2 (STAT 30200), Spring 2023.
   * Statistical Models and Methods (STAT 23400), Autumn 2022.
   * Multivariate Statistical Analysis: Applications and Techniques (STAT 32950-24620), Spring 2022, Spring 2023.
   * Statistical Theory and Methods IIa (STAT 30040-24510), Winter 2022.
