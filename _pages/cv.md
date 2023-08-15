@@ -24,12 +24,13 @@ redirect_from:
 
 ## **Teaching**
 * Teaching Assistant at the University of Chicago
-  * Mathematical Statistics 2 (STAT 30200), Spring 2023.
-  * Statistical Models and Methods (STAT 23400), Autumn 2022.
-  * Multivariate Statistical Analysis: Applications and Techniques (STAT 32950-24620), Spring 2022, Spring 2023.
+  * Instructor for Theoretical Statistics Preliminary Examination, Summer 2023.
+  * Mathematical Statistics II (STAT 30200), Spring 2023.
+  * Multivariate Statistical Analysis: Applications and Techniques (STAT 32950-24620), Spring 2023, Spring 2022.
+  * Statistical Models and Methods (STAT 23400), Fall 2022.
   * Statistical Theory and Methods IIa (STAT 30040-24510), Winter 2022.
 * Peer tutoring at Seoul National University
   * Mathematical Statistics I (326.311), Spring 2021, (Best tutor awards).
-  * Mathematical Statistics II (326.312), Autumn 2020.
+  * Mathematical Statistics II (326.312), Fall 2020.
 
 
