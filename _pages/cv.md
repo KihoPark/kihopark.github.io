@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 ## **Education**
-* **University of Chicago, 2021 - present**
+* **University of Chicago, 2021 - Present**
   * Ph.D. in Statistics
 * **Seoul National University, 2015 - 2021**
   * B.S. in Statistics and Mathematical Science
-* **Seoul Science High School, 2015**
+* **Seoul Science High School, 2012 - 2015**
 
 ## **Awards & Scholarships**
 * The Winter 2023 Consulting Cup Team Award, March 2023.
