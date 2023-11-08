@@ -5,8 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## **The Linear Representation Hypothesis and the Geometry of Large Language Models**
+* **Kiho Park**, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}
+* *arXiv preprint arXiv:2311.03658*, 2023. ([pdf](http://kihopark.github.io/files/paper3.pdf){:target="_blank"}) ([link](https://arxiv.org/abs/2311.03658){:target="_blank"})
+
 ## **Clustering on the Torus by Conformal Prediction**
-* [Sungkyu Jung](http://jung.snu.ac.kr/){:target="_blank"}, **Kiho Park**, and Byungwon Kim
+* [Sungkyu Jung](http://jung.snu.ac.kr/){:target="_blank"}, **Kiho Park**, and [Byungwon Kim](https://sites.google.com/view/ns208/home){:target="_blank"}
 * *Annals of Applied Statistics*, vol. 15. no. 04, p. 1583 - 1603, 2021. ([pdf](http://kihopark.github.io/files/paper2.pdf){:target="_blank"}) ([link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-4/Clustering-on-the-torus-by-conformal-prediction/10.1214/21-AOAS1459.short){:target="_blank"})
 * Listed on Global Research on coronavirus disease (COVID-19) database by [*World Health Organization*](https://search.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/en/covidwho-1581941){:target="_blank"}. 
 
