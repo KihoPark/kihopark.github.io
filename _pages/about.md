@@ -20,10 +20,10 @@ Research interests
 
 News
 =====
-* **2023.12**: Our new preprint, [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658){:target="_blank"}, is released on arXiv! This is joint work with [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"} and [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
-* **2022.10**: Awarded [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/){:target="_blank"}.
-* **2021.09**: Started PhD at UChicago!
-* **2021.03**: Paper on clustering the dihedral angles on the torus accepted at *Annals of Applied Statistics*.
+* 2023.12: Our new preprint, [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658){:target="_blank"}, is released on arXiv! This is joint work with [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"} and my advisor [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
+* 2022.10: I won [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/){:target="_blank"}.
+* 2021.09: I started PhD at UChicago!
+* 2021.03: Our paper, [Clustering on the Torus by Conformal Prediction](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-4/Clustering-on-the-torus-by-conformal-prediction/10.1214/21-AOAS1459.short){:target="_blank"}, is accepted to *Annals of Applied Statistics*! This is joint work with [Sungkyu Jung](http://jung.snu.ac.kr/){:target="_blank"} and [Byungwon Kim](https://sites.google.com/view/ns208/home){:target="_blank"}.
 
 Contact
 =====
