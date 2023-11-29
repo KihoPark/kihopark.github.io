@@ -20,7 +20,7 @@ Research interests
 
 News
 =====
-* 2023.12: I was at [NeurIPS 2023](https://nips.cc/){:target="_blank"} to give an oral and a poster presentation at the [Workshop on Causal Representation Learning](https://crl-workshop.github.io/){:target="_blank"}. I presented our recent work on [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658){:target="_blank"}.
+* 2023.12: I will be at [NeurIPS 2023](https://nips.cc/){:target="_blank"} to give an oral and a poster presentation at the [Workshop on Causal Representation Learning](https://crl-workshop.github.io/){:target="_blank"}. I will present our recent work on [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658){:target="_blank"}.
 * 2023.11: Our new preprint, [The Linear Representation Hypothesis and the Geometry of Large Language Models](https://arxiv.org/abs/2311.03658){:target="_blank"}, is released on arXiv! This is joint work with [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"} and my advisor [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
 * 2022.10: I am honored to be a [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/){:target="_blank"} recipient.
 * 2021.09: I started PhD at UChicago!
