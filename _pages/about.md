@@ -14,8 +14,8 @@ I graduated from [Seoul National University](https://stat.snu.ac.kr/en/){:target
 
 Research interests
 ======
-* Representation Learning
-* Large Language Model
+* Interpretability
+* Large Language Models
 * Causal Inference
 
 News
