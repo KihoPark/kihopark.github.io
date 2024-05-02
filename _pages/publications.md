@@ -7,7 +7,7 @@ author_profile: true
 
 ## **The Linear Representation Hypothesis and the Geometry of Large Language Models**
 * **Kiho Park**, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}
-* *arXiv preprint arXiv:2311.03658*, 2023. ([pdf](http://kihopark.github.io/files/paper3.pdf){:target="_blank"}) ([link](https://arxiv.org/abs/2311.03658){:target="_blank"})
+* *International Conference on Machine Learning*, 2024. ([pdf](http://kihopark.github.io/files/paper3.pdf){:target="_blank"}) ([link](https://arxiv.org/abs/2311.03658){:target="_blank"})
 * Oral Presentation at [NeurIPS 2023 Workshop on CRL](https://crl-workshop.github.io/){:target="_blank"}. ([slide](http://kihopark.github.io/files/NeurIPS%202023%20Workshop%20keynote.pdf){:target="_blank"})
 
 ## **Clustering on the Torus by Conformal Prediction**
