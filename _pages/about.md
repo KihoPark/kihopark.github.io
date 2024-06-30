@@ -9,8 +9,9 @@ redirect_from:
 ---
 
 I am a fourth-year Ph.D. student in [Statistics](https://stat.uchicago.edu){:target="_blank"} at the University of Chicago. I am very fortunate to be advised by Prof. [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
-
-I graduated from [Seoul National University](https://stat.snu.ac.kr/en/){:target="_blank"}, majoring in Statistics and Mathematics. At SNU, I worked with Prof. [Sungkyu Jung](http://jung.snu.ac.kr){:target="_blank"}.
+My research focuses on the Science of AI, with a particular emphasis on Large Language Model (LLM) interpretability. I'm passionate about uncovering the underlying mechanisms of LLMs and contributing to the development of more transparent and interpretable AI systems. My work explores the geometric properties of language models, offering insights into their internal structures and decision-making processes.
+Prior to my doctoral studies, I graduated from [Seoul National University](https://stat.snu.ac.kr/en/){:target="_blank"}, majoring in Statistics and Mathematics. At SNU, I had privilege of working with Prof. [Sungkyu Jung](http://jung.snu.ac.kr){:target="_blank"}.
+I am committed to bridging the gap between theoretical statistics and practical AI applications, and I'm always open to collaborations and discussions on AI interpretability, statistical modeling, and the future of language technologies.
 
 Research interests
 ======
