@@ -15,6 +15,8 @@ redirect_from:
 * **Seoul Science High School, 2012 - 2015**
 
 ## **Awards & Scholarships**
+* Best Paper Award at the ICML 2024 Workshop on Mechanistic Interpretability, July 2024.
+* Best Poster Award 1st Place on Student Research Poster Day (University of Chicago), March 2024.
 * The Winter 2023 Consulting Cup Team Award, March 2023.
 * [Seoul National University Alumni Association (SNUAA) Chicago Scholarship](http://www.alumni-world.com/snuaachicago/public/scholarship.htm){:target="_blank"}, November 2022.
 * [Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics](https://stat.uchicago.edu/about/akinbiyi-fund/){:target="_blank"}, October 2022.
@@ -24,7 +26,7 @@ redirect_from:
 
 ## **Teaching**
 * Teaching Assistant at the University of Chicago
-  * Instructor for Theoretical Statistics Preliminary Examination, Summer 2023.
+  * Instructor for Theoretical Statistics Preliminary Examination, Summer 2024, Summer 2023.
   * Mathematical Statistics II (STAT 30200), Spring 2023.
   * Multivariate Statistical Analysis: Applications and Techniques (STAT 32950-24620), Spring 2023, Spring 2022.
   * Statistical Models and Methods (STAT 23400), Fall 2022.
