@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Papers"
+permalink: /papers/
 author_profile: true
 ---
 ## **The Geometry of Categorical and Hierarchical Concepts in Large Language Models**
