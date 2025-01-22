@@ -6,13 +6,14 @@ author_profile: true
 ---
 ## **The Geometry of Categorical and Hierarchical Concepts in Large Language Models**
 * **Kiho Park**, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, [Yibo Jiang](https://ybjiaang.github.io){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"} ([arXiv](https://arxiv.org/abs/2406.01506){:target="_blank"})
-* Oral (Top 3.6%) Presentation at *ICML 2024 Workshop on MI*. (**Best Paper Award**)
-* Poster Presentation at *ICML 2024 Workshop on TF2M*.
+* Poster Presentation at *ICLR 2025*
+* Oral (Top 3.6%) Presentation at *ICML 2024 Workshop on MI* (**Best Paper Award**)
+* Poster Presentation at *ICML 2024 Workshop on TF2M*
 
 ## **The Linear Representation Hypothesis and the Geometry of Large Language Models**
 * **Kiho Park**, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"} ([arXiv](https://arxiv.org/abs/2311.03658){:target="_blank"})
-* Poster Presentation at *ICML 2024*. ([pdf](http://kihopark.github.io/files/paper3.pdf){:target="_blank"}) ([link](https://icml.cc/virtual/2024/poster/33950){:target="_blank"})
-* Oral Presentation at *NeurIPS 2023 Workshop on CRL*. ([slide](http://kihopark.github.io/files/NeurIPS%202023%20Workshop%20keynote.pdf){:target="_blank"})
+* Poster Presentation at *ICML 2024* ([pdf](http://kihopark.github.io/files/paper3.pdf){:target="_blank"}) ([link](https://icml.cc/virtual/2024/poster/33950){:target="_blank"})
+* Oral Presentation at *NeurIPS 2023 Workshop on CRL* ([slide](http://kihopark.github.io/files/NeurIPS%202023%20Workshop%20keynote.pdf){:target="_blank"})
 
 ## **Clustering on the Torus by Conformal Prediction**
 * [Sungkyu Jung](http://jung.snu.ac.kr/){:target="_blank"}, **Kiho Park**, and [Byungwon Kim](https://sites.google.com/view/ns208/home){:target="_blank"}
