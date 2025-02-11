@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **The Geometry of Categorical and Hierarchical Concepts in Large Language Models**
 * **Kiho Park**, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, [Yibo Jiang](https://ybjiaang.github.io){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"} ([arXiv](https://arxiv.org/abs/2406.01506){:target="_blank"})
-* Poster Presentation at *ICLR 2025*
+* Oral (Top 1.8%) Presentation at *ICLR 2025*
 * Oral (Top 3.6%) Presentation at *ICML 2024 Workshop on MI* (**Best Paper Award**)
 * Poster Presentation at *ICML 2024 Workshop on TF2M*
 
