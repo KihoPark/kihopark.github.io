@@ -28,8 +28,9 @@ News
 * 2022.10: I am honored to be a <a href="https://stat.uchicago.edu/about/akinbiyi-fund/" style="font-style:bold; color:black;" target="_blank">Takintayo Akinbiyi Memorial Award for Academic Excellence in Statistics</a> recipient.
 * 2021.09: I started PhD at UChicago!
 * 2021.03: Our paper, <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-15/issue-4/Clustering-on-the-torus-by-conformal-prediction/10.1214/21-AOAS1459.short" style="color:maroon;" target="_blank">Clustering on the Torus by Conformal Prediction</a>, is accepted to *Annals of Applied Statistics*! This is joint work with [Sungkyu Jung](http://jung.snu.ac.kr/){:target="_blank"} and [Byungwon Kim](https://sites.google.com/view/ns208/home){:target="_blank"}.
--->
+
 
 Contact
 =====
 Email: <parkkiho@uchicago.edu>
+-->
