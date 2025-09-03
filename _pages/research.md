@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 ## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
-* Mark Muchane, Sean Richardson, **Kiho Park**, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}  ([arXiv](https://arxiv.org/abs/2506.01197){:target="_blank"})
+* [Mark Muchane](https://github.com/muchanem){:target="_blank"}, Sean Richardson, **Kiho Park**, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}  ([arXiv](https://arxiv.org/abs/2506.01197){:target="_blank"})
 * Submitted to *NeurIPS 2025*
 
 ## **The Geometry of Categorical and Hierarchical Concepts in Large Language Models**
