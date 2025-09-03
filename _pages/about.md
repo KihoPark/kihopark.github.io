@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year Ph.D. candidate in [Statistics](https://stat.uchicago.edu){:target="_blank"} at the University of Chicago, fortunate to be advised by Prof. [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
-My research focuses on the science of AI, with a particular emphasis on Large Language Model (LLM) interpretability. I am passionate about uncovering the underlying mechanisms of LLMs and contributing to the development of more transparent and interpretable AI systems. My work explores the geometric properties of language models, offering insights into their internal structures and decision-making processes.
+I am a fifth-year Ph.D. candidate in [Statistics](https://stat.uchicago.edu){:target="_blank"} at the University of Chicago, advised by Prof. [Victor Veitch](http://victorveitch.com/){:target="_blank"}.
+My research focuses on the foundations of AI, with particular emphasis on Large Language Model (LLM) interpretability. I am passionate about uncovering the underlying mechanisms of LLMs and contributing to the development of more transparent and interpretable AI systems. My work explores the geometric properties of language models, offering insights into their internal structures and decision-making processes.
 
 Prior to my doctoral studies, I graduated from [Seoul National University](https://stat.snu.ac.kr/en/){:target="_blank"}, majoring in Statistics and Mathematics. At SNU, I had the privilege of working with Prof. [Sungkyu Jung](http://jung.snu.ac.kr){:target="_blank"}.
 
-I am committed to bridging the gap between theoretical statistics and practical AI applications, and I am always open to collaborations and discussions on AI interpretability, AI safety, and the future of AI technologies.
+I am committed to bridging the gap between theoretical statistics and practical AI applications, and I welcome collaborations and discussions on AI interpretability, AI safety, and the future of AI technologies.
 
 Here is my [cv](http://kihopark.github.io/files/CV.pdf){:target="_blank"}.
 
