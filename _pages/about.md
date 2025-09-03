@@ -15,6 +15,8 @@ Prior to my doctoral studies, I graduated from [Seoul National University](https
 
 I am committed to bridging the gap between theoretical statistics and practical AI applications, and I am always open to collaborations and discussions on AI interpretability, AI safety, and the future of AI technologies.
 
+Here is my [cv](http://kihopark.github.io/files/CV.pdf){:target="_blank"}.
+
 <!--
 News
 =====
