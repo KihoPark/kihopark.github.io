@@ -4,7 +4,7 @@ title: "Papers"
 permalink: /papers/
 author_profile: true
 ---
-## *Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
+## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
 * Mark Muchane, Sean Richardson, **Kiho Park**, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}  ([arXiv](https://arxiv.org/abs/2506.01197){:target="_blank"})
 * Submitted to *NeurIPS 2025*
 
