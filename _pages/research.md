@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 ## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
+* **Kiho Park**, [Todd Nief](https://toddnief.com/){:target="_blank"}, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"} ([arXiv](https://www.arxiv.org/abs/2602.15293){:target="_blank"})
+
+## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
 * [Mark Muchane](https://github.com/muchanem){:target="_blank"}, Sean Richardson, **Kiho Park**, and [Victor Veitch](http://victorveitch.com/){:target="_blank"}  ([arXiv](https://arxiv.org/abs/2506.01197){:target="_blank"})
 
 ## **The Geometry of Categorical and Hierarchical Concepts in Large Language Models**
