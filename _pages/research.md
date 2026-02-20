@@ -4,7 +4,7 @@ title: ""
 permalink: /research/
 author_profile: true
 ---
-## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
+## **The Information Geometry of Softmax: Probing and Steering**
 * **Kiho Park**, [Todd Nief](https://toddnief.com/){:target="_blank"}, [Yo Joong Choe](https://yjchoe.github.io/){:target="_blank"}, and [Victor Veitch](http://victorveitch.com/){:target="_blank"} ([arXiv](https://www.arxiv.org/abs/2602.15293){:target="_blank"})
 
 ## **Incorporating Hierarchical Semantics in Sparse Autoencoder Architectures**
